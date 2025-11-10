@@ -1,0 +1,3 @@
+fasptapi
+uvicorn
+scikit-learn
